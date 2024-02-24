@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserNotes</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Logged</string>
+    <string name="title_notifications">Note</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logTitle">Welcome to UserNotes</string>
+</resources>
